@@ -1,0 +1,1357 @@
+{
+  "saturday": [
+    {
+      "description": "Safety Third but it's LIVE! The hosts (and some guests) share stories and rant while pretending to talk about science.",
+      "length": "45",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/NileRed.png",
+          "name": "NileRed"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/BackyardScientist.png",
+          "name": "The Backyard Scientist"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/William_Osman.png",
+          "name": "William Osman"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/MichaelReeves.png",
+          "name": "Michael Reeves"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Emily_The_Engineer.png",
+          "name": "Emily The Engineer"
+        }
+      ],
+      "time": "10:30 AM",
+      "title": "Safety Third: LIVE!",
+      "where": "Main Stage"
+    },
+    {
+      "description": "Some people chase trends, but these creators have built strong, loyal audiences by sticking to what they love and finding others who love it too. Hear how to turn niche ideas into standout content.",
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Engineezy.png",
+          "name": "Engineezy"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Ali_Spagnola.png",
+          "name": "Ali Spagnola"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Alan_Becker.png",
+          "name": "Alan Becker"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/SlowMoGuys.png",
+          "name": "Gavin Free"
+        }
+      ],
+      "time": "11:00 AM",
+      "title": "Innovating In A Niche",
+      "where": "Outdoor Stage"
+    },
+    {
+      "description": "Making one cool thing for a YouTube video is tough enough, but turning that idea into 10,000 units is a whole different challenge. Learn how these creators have taken their custom-built projects from prototype to product.",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/Ruth_Amos.png",
+        "name": "Ruth Amos"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Hacksmith.png",
+          "name": "The Hacksmith"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Jake_Laser.png",
+          "name": "Jake Laser"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/JerryRigEverything.png",
+          "name": "JerryRigEverything"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Unnecessary_Inventions.png",
+          "name": "Unnecessary Inventions"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Stephen_Hawes.png",
+          "name": "Stephen Hawes"
+        }
+      ],
+      "time": "11:15 AM",
+      "title": "Prototyping to Product",
+      "where": "Main Stage"
+    },
+    {
+      "description": "We’re back! Join as the cast of The Yard returns for more Backyard Science in the squeak-uel we've all been waiting for.",
+      "length": "45",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/BackyardScientist.png",
+        "name": "The Backyard Scientist"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/04/Ludwig.png",
+          "name": "Ludwig"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Nick_The_Yard.png",
+          "name": "Nick"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/Slime.png",
+          "name": "Slime"
+        }
+      ],
+      "time": "12:00 PM",
+      "title": "The BackYard - Agains",
+      "where": "Main Stage"
+    },
+    {
+      "description": "Join us to nerd out over thrust vectors, propellants, shock diamonds, and more rocket words! It's gonna rock(et).",
+      "length": "45",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/Real_Engineering.png",
+        "name": "Brian McManus"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Joe_Barnard.png",
+          "name": "BPS.space"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Integza.png",
+          "name": "Integza"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/SmarterEveryDay.png",
+          "name": "SmarterEveryDay"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Scott_Manley.png",
+          "name": "Scott Manley"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/BrigetteOakes.png",
+          "name": "Brigette Oakes"
+        }
+      ],
+      "time": "12:45 PM",
+      "title": "Team Rocket",
+      "where": "Second Stage"
+    },
+    {
+      "description": "What if the robots could move?",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/Mr_Volt.png",
+        "name": "Mr. Volt"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Odd_Jayy.png",
+          "name": "Odd_Jayy"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Kiaras_Workshop.png",
+          "name": "Kiara’s Workshop"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Wicked_Makers.png",
+          "name": "Wicked Makers"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Becky_Stern.png",
+          "name": "Becky Stern"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/AaedMusa.png",
+          "name": "Aaed Musa"
+        }
+      ],
+      "time": "01:00 PM",
+      "title": "Robotics and Animatronics!",
+      "where": "Outdoor Stage"
+    },
+    {
+      "description": "It - made - this - description!",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/Theo.png",
+        "name": "Theo"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/Jabrils.png",
+          "name": "Jabrils"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Captain_Disillusion.png",
+          "name": "Captain Disillusion"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Primeagen.png",
+          "name": "ThePrimeagen"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Luke_Lafreniere.png",
+          "name": "Luke Lafreniere"
+        }
+      ],
+      "time": "01:30 PM",
+      "title": "Could AI Make This Panel?",
+      "where": "Second Stage"
+    },
+    {
+      "description": "Walking is overrated. This gang of creators prefers to drive, fly and float their way around.",
+      "length": "45",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/Louis_Weisz.png",
+        "name": "Louis Weisz"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Peter_Sripol.png",
+          "name": "Peter Sripol"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Tom_Stanton.png",
+          "name": "Tom Stanton"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/rctestflight.png",
+          "name": "rctestflight"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Ramy_RC.png",
+          "name": "Ramy RC"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Aging_Wheels.png",
+          "name": "Aging Wheels"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Quiet_Nerd.png",
+          "name": "Quiet Nerd"
+        }
+      ],
+      "time": "01:30 PM",
+      "title": "Planes, Trains, and Automobiles",
+      "where": "Outdoor Stage"
+    },
+    {
+      "description": "We all know \"Chemistry is the scientific study of matter, its properties, and how it changes during chemical reactions. It explores the building blocks of the universe such as atoms and molecules and how they interact to form everything from water to DNA. Chemistry connects the physical world with biological and environmental systems\", and this panel connects you with your favorite chemistry creators. Will they bond?",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/William_Osman.png",
+        "name": "William Osman"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/NileRed.png",
+          "name": "NileRed"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/CodysLab.png",
+          "name": "Cody's Lab"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/ExplosionsAndFire.png",
+          "name": "Explosions&Fire"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Drake_Anthony.png",
+          "name": "Styropyro"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Thought_Emporium.png",
+          "name": "The Thought Emporium"
+        }
+      ],
+      "time": "01:30 PM",
+      "title": "It's All About Chemistry",
+      "where": "Main Stage"
+    },
+    {
+      "description": "It doesn't get more live than this. Chat with top streaming creators in this Q&A panel. Questions for the panel must be submitted in advance via the event app.",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/04/PointCrow.png",
+        "name": "PointCrow"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/BaoTheWhale.png",
+          "name": "Bao The Whale"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/CodeMiko.png",
+          "name": "Codemiko"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/DisguisedToast.png",
+          "name": "DisguisedToast"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/Sydeon.png",
+          "name": "Sydeon"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/Yvonnie.png",
+          "name": "Yvonnie"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/Scarra.png",
+          "name": "Scarra"
+        }
+      ],
+      "time": "02:00 PM",
+      "title": "Streaming AMA",
+      "where": "Main Stage"
+    },
+    {
+      "description": null,
+      "length": "60",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": null,
+          "name": "Kevin Laird"
+        }
+      ],
+      "time": "02:00 PM",
+      "title": "Let's make a game in an hour",
+      "where": "Second Stage"
+    },
+    {
+      "description": "Wood, metal, and plastic are fine...but why stop there? How to make something from anything.",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/NFTI.png",
+        "name": "Nate From the Internet"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/PeterBrown.png",
+          "name": "Peter Brown"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Bobby_Duke_Arts.png",
+          "name": "Bobby Duke Arts"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/MorleyKert.png",
+          "name": "Morley Kert"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Ali_Spagnola.png",
+          "name": "Ali Spagnola"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Crescent_Shay.png",
+          "name": "Crescent Shay"
+        }
+      ],
+      "time": "02:15 PM",
+      "title": "Unconventional Materials",
+      "where": "Outdoor Stage"
+    },
+    {
+      "description": "Over the past two decades, content creation has evolved from webcam vlogs into a multi-billion-dollar industry. Join us as we chat about the shifts in platforms, audiences, algorithms, and where we might be headed next.",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/04/JimLouderback.png",
+        "name": "Jim Louderback"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/HankGreen.png",
+          "name": "Hank Green"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/Vsauce.png",
+          "name": "Vsauce"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/SlowMoGuys.png",
+          "name": "Gavin Free"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/GameGrumps.png",
+          "name": "Arin Hanson"
+        }
+      ],
+      "time": "02:30 PM",
+      "title": "State of The Union",
+      "where": "Main Stage"
+    },
+    {
+      "description": "Trapped in an entry level job, creators are forced to innovate at the will of an evil corporate overlord. Watch as they navigate a game of ethics, corporate bureaucracy, and the laws of physics. Will there be synergy?",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/Alex_Ernst.png",
+        "name": "Alex Ernst"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/04/ColinFurze.png",
+          "name": "Colin Furze"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Drake_Anthony.png",
+          "name": "Styropyro"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/MichaelReeves.png",
+          "name": "Michael Reeves"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Allen_Pan.png",
+          "name": "Allen Pan"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/ElectroBOOM.png",
+          "name": "ElectroBOOM"
+        }
+      ],
+      "time": "03:00 PM",
+      "title": "Super Villain Inc.",
+      "where": "Main Stage"
+    },
+    {
+      "description": "A discussion with some of the most famous builders in BattleBots. We will talk about BattleBots Faceoffs and some recent YouTube creators and bot builders collaborations then open it up to questions. Builders: Ray Billings: Tombstone (World Champion and Most Destructive Robot Award), Leanne Cushing: Valkyrie (Most Destructive Robot Award), Nick Dobrikov: Manta, Jen Herochender: Hijinx, Aren Hill: Tantrum, Blip (World Champion), Bunny Liaw: Malice, Zach Lytle: Skorpios and Derek Tran: Cobalt, Gigabyte",
+      "length": "45",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/06/PeterAbrahamson.png",
+        "name": "Peter Abrahamson"
+      },
+      "speakers": [],
+      "time": "03:15 PM",
+      "title": "Meet the Bot Builders, ask them anything!",
+      "where": "Outdoor Stage"
+    },
+    {
+      "description": null,
+      "length": "60",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": null,
+          "name": "Matt Warl"
+        }
+      ],
+      "time": "03:30 PM",
+      "title": "Why you need a producer",
+      "where": "Second Stage"
+    },
+    {
+      "description": "Open Sauce exhibitors team up with creators to pitch their projects to a panel of vicious business carp. Will the ideas (and their inventors) sink or swim under the pressure?",
+      "length": "45",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/05/CommentEtiquette.png",
+        "name": "InternetCommentEtiquette"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/William_Osman.png",
+          "name": "William Osman"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/TechJoyce.png",
+          "name": "TechJoyce"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Unnecessary_Inventions.png",
+          "name": "Unnecessary Inventions"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Kyle_Hill.png",
+          "name": "Kyle Hill"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/EvanAndKatelyn.png",
+          "name": "Evan and Katelyn"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Ruth_Amos.png",
+          "name": "Ruth Amos"
+        }
+      ],
+      "time": "04:00 PM",
+      "title": "Carp Tank",
+      "where": "Main Stage"
+    },
+    {
+      "description": ".gnireenigne s'taht won ,rehtegot kcab meht gnittup ,trapA sgniht gnikaT",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/Stephen_Hawes.png",
+        "name": "Stephen Hawes"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Strange_Parts.png",
+          "name": "Strange Parts"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Jeff_Geerling.png",
+          "name": "Jeff Geerling"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Ben_Krasnow.png",
+          "name": "Ben Krasnow"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Ben_Eater.png",
+          "name": "Ben Eater"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Jeremy_Fielding.png",
+          "name": "Jeremy Fielding"
+        }
+      ],
+      "time": "04:30 PM",
+      "title": "gnireenignE: Reverse Engineering",
+      "where": "Second Stage"
+    },
+    {
+      "description": "From failed first layers, to funky filaments, and a billion “Benchy’s”: these creators' and their 3D printing opinions are like onions (they have layers). Join them for a layered discussion about printers, slicers, and so many layers.",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/3D_Printing_Nerd.png",
+        "name": "3D Printing Nerd"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/CNC_Kitchen.png",
+          "name": "CNC Kitchen"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Thomas_Sanladerer.png",
+          "name": "Thomas Sanladerer"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Emily_The_Engineer.png",
+          "name": "Emily The Engineer"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Allen_Pan.png",
+          "name": "Allen Pan"
+        }
+      ],
+      "time": "05:00 PM",
+      "title": "3D Printing Hot Takes",
+      "where": "Second Stage"
+    },
+    {
+      "description": "Four creators vs four sixth graders. Who will win?",
+      "length": "45",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/05/HankGreen.png",
+        "name": "Hank Green"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/NileRed.png",
+          "name": "NileRed"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/SmarterEveryDay.png",
+          "name": "SmarterEveryDay"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Atarabyte.png",
+          "name": "Atarabyte"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/03/TedNivison.png",
+          "name": "Ted Nivison"
+        }
+      ],
+      "time": "05:00 PM",
+      "title": "Are you dumber than a sixth grader?",
+      "where": "Main Stage"
+    },
+    {
+      "description": "Ignoring the advances of technology over the past few decades is… a choice.",
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/CodysLab.png",
+          "name": "Cody's Lab"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Andy_George.png",
+          "name": "How To Make Everything"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Bobby_Duke_Arts.png",
+          "name": "Bobby Duke Arts"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/Farmcraft101.png",
+          "name": "FarmCraft101"
+        }
+      ],
+      "time": "05:30 PM",
+      "title": "Doing It The Hard Way (Ye' Olde Makers)",
+      "where": "Second Stage"
+    }
+  ],
+  "sunday": [
+    {
+      "description": "Talk shop with top creators in this Q&A panel. Questions for the panel must be submitted in advance via the event app.",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/05/TraceDominguez.png",
+        "name": "Trace Dominguez"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Estefannie.png",
+          "name": "Estefannie"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/CNC_Kitchen.png",
+          "name": "CNC Kitchen"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Luke_Lafreniere.png",
+          "name": "Luke Lafreniere"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Practical_Engineering.png",
+          "name": "Grady Hillhouse"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Skip_the_Tutorial.png",
+          "name": "Skip the Tutorial"
+        }
+      ],
+      "time": "10:30 AM",
+      "title": "YouTube Shop Talk: Ask Us Anything!",
+      "where": "Second Stage"
+    },
+    {
+      "description": "These magicians WILL share their secrets.",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/Wren.png",
+        "name": "Wren"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/CorridorCrew2.png",
+          "name": "Nick Laurant"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Captain_Disillusion.png",
+          "name": "Captain Disillusion"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/03/SamWickert1.png",
+          "name": "Sam Wickert"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/03/BrendanForde.png",
+          "name": "Brendan Forde"
+        }
+      ],
+      "time": "10:30 AM",
+      "title": "Movie Magic: VFX",
+      "where": "Main Stage"
+    },
+    {
+      "description": "Never let them know your next move. When these creators post, you never know what you’re gonna get. Come learn about how a sidequest can spiral into something bigger and what to do when you’re interested in everything.",
+      "length": "45",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/07/MatthewHarris.png",
+        "name": "Matthew Harris"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/The_Action_Lab.png",
+          "name": "The Action Lab"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/04/WaterjetChannel.png",
+          "name": "Waterjet Channel"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/NightHawkInLight.png",
+          "name": "NightHawkInLight"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/AlphaPhoenix.png",
+          "name": "Alpha Phoenix"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Thought_Emporium.png",
+          "name": "The Thought Emporium"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Joel_Creates.png",
+          "name": "Joel Creates"
+        }
+      ],
+      "time": "10:45 AM",
+      "title": "Experimental Panel Title",
+      "where": "Outdoor Stage"
+    },
+    {
+      "description": "From ancient extinction to modern ecosystems, the line between conservation and interference is blurrier than ever. Should we bring species back? How do we protect what’s still here? And what role should humans play in shaping nature’s future?",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/05/HankGreen.png",
+        "name": "Hank Green"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Maya_Higa.png",
+          "name": "Maya Higa"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Emily_Graslie.png",
+          "name": "Emily Graslie"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/TierZoo.png",
+          "name": "TierZoo"
+        }
+      ],
+      "time": "11:00 AM",
+      "title": "Mammoth Mistake? Conservation and Human Interference",
+      "where": "Second Stage"
+    },
+    {
+      "description": "These creators know it ain’t all fun and games. Find out how these developer creators juggle developing games and developing content about developing games as this panel develops.",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/05/Jabrils.png",
+        "name": "Jabrils"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/SonderingEmily.png",
+          "name": "SonderingEmily"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Code_Bullet.png",
+          "name": "Code Bullet"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/PolyMars.png",
+          "name": "PolyMars"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Luke_Muscat.png",
+          "name": "Luke Muscat"
+        }
+      ],
+      "time": "11:15 AM",
+      "title": "Developing Content on Developing Games",
+      "where": "Main Stage"
+    },
+    {
+      "description": "From hand-drawn cells to AI-assisted workflows, animation is evolving faster than ever. This panel brings together creators who are pushing the boundaries of style, technology, and storytelling. Explore where animation is headed, how it is being made, and what the next generation of animators and audiences can expect.",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/GingerPale.png",
+        "name": "GingerPale"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/TheOdd1sOut.png",
+          "name": "TheOdd1sOut"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Rebecca_Parham.png",
+          "name": "Rebecca Parham"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/CircleToonsHD-1.png",
+          "name": "CircleToonsHD"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Illymation.png",
+          "name": "illymation"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Alan_Becker.png",
+          "name": "Alan Becker"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/Audity.png",
+          "name": "Audity"
+        }
+      ],
+      "time": "11:45 AM",
+      "title": "The Future of Animation",
+      "where": "Second Stage"
+    },
+    {
+      "description": "Science education doesn’t have to be dry. Learn how these creators navigate mixing entertainment with education.",
+      "length": "45",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/Kyle_Hill.png",
+        "name": "Kyle Hill"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Tibees.png",
+          "name": "Tibees"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/TierZoo.png",
+          "name": "TierZoo"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Practical_Engineering.png",
+          "name": "Grady Hillhouse"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Emily_Graslie.png",
+          "name": "Emily Graslie"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/ChubbyEmu.png",
+          "name": "ChubbyEmu"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Daniel_Shiffman.png",
+          "name": "The Coding Train"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/ASTRO_ALEXANDRA.png",
+          "name": "Astro Alexandra"
+        }
+      ],
+      "time": "12:15 PM",
+      "title": "Learning is Fun: Educating on Educational Content",
+      "where": "Second Stage"
+    },
+    {
+      "description": "Join us for a second annual game of Creator Feud, where your answers shape the game! Be sure to complete our survey before the show to contribute to the pool of responses.",
+      "length": "45",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/03/TedNivison.png",
+        "name": "Ted Nivison"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/04/PointCrow.png",
+          "name": "PointCrow"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Slimecicle.png",
+          "name": "Slimecicle"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Ranboo.png",
+          "name": "Ranboo"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/03/ConnorEatsPants.png",
+          "name": "ConnorEatsPants"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Primeagen.png",
+          "name": "ThePrimeagen"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/ExplosionsAndFire.png",
+          "name": "Explosions&Fire"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/NerdForge-1.png",
+          "name": "Nerdforge"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Allen_Pan.png",
+          "name": "Allen Pan"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/ElectroBOOM.png",
+          "name": "ElectroBOOM"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Technology_Connections.png",
+          "name": "Technology Connections"
+        }
+      ],
+      "time": "12:45 PM",
+      "title": "Creator Feud",
+      "where": "Main Stage"
+    },
+    {
+      "description": "Come learn how these panelists took their passion for building LEGO and turned it into a career. From corporate displays, to movies, to art.",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/06/PeterAbrahamson.png",
+        "name": "Peter Abrahamson"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/06/BrandonGriffith.png",
+          "name": "Brandon Griffith"
+        },
+        {
+          "media": null,
+          "name": "Tommy Williamson"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/06/ChrisWight.png",
+          "name": "Chris Wight"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/SamBuilds.png",
+          "name": "Sam Builds"
+        }
+      ],
+      "time": "01:15 PM",
+      "title": "LEGO - Building a Career",
+      "where": "Outdoor Stage"
+    },
+    {
+      "description": "Why use many word when few do trick?",
+      "length": "45",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/AstroKobi.png",
+          "name": "AstroKobi"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Emily_The_Engineer.png",
+          "name": "Emily The Engineer"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Unnecessary_Inventions.png",
+          "name": "Unnecessary Inventions"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Atarabyte.png",
+          "name": "Atarabyte"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Josephs_Machines.png",
+          "name": "Joseph’s Machines"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/04/RachelPizzolato.png",
+          "name": "Rachel Pizzolato"
+        }
+      ],
+      "time": "01:30 PM",
+      "title": "Short Form Content",
+      "where": "Second Stage"
+    },
+    {
+      "description": null,
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": null,
+          "name": "Gemporium Devs"
+        }
+      ],
+      "time": "01:45 PM",
+      "title": "Indie Dev Roundtable \"What makes a great demo\"",
+      "where": "Outdoor Stage"
+    },
+    {
+      "description": "OfflineTV goes offline to help the Backyard Scientist explore some live stage science.",
+      "length": "45",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/BackyardScientist.png",
+        "name": "The Backyard Scientist"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/MichaelReeves.png",
+          "name": "Michael Reeves"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/QuaterJade.png",
+          "name": "QuarterJade"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/Masayoshi.png",
+          "name": "Masayoshi"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/04/LilyPichu.png",
+          "name": "LilyPichu"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/Pokimane.png",
+          "name": "Pokimane"
+        }
+      ],
+      "time": "02:15 PM",
+      "title": "Backyard Science: Touching Grass",
+      "where": "Main Stage"
+    },
+    {
+      "description": "Join for a discussion of functional 3D printing, where parts have to play nice with each other and come together to form intricate sculptures and robust machines.",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/Strange_Parts.png",
+        "name": "Strange Parts"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Sean_Hodgins.png",
+          "name": "Sean Hodgins"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Engineezy.png",
+          "name": "Engineezy"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Ivan_Miranda.png",
+          "name": "Ivan Miranda"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/3D_Printing_Nerd.png",
+          "name": "3D Printing Nerd"
+        }
+      ],
+      "time": "02:15 PM",
+      "title": "4D Printing",
+      "where": "Second Stage"
+    },
+    {
+      "description": "Ideas are hard. From inspiration to execution, get an inside look at the creative journey behind the content.",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/Wren.png",
+        "name": "Wren"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/EvanAndKatelyn.png",
+          "name": "Evan and Katelyn"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/TenHundred.png",
+          "name": "Ten Hundred"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/NerdForge-1.png",
+          "name": "Nerdforge"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/TheOdd1sOut.png",
+          "name": "TheOdd1sOut"
+        }
+      ],
+      "time": "02:45 PM",
+      "title": "The Creative Process",
+      "where": "Second Stage"
+    },
+    {
+      "description": "Two “farmers” and one farmer walk into a panel…",
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/William_Osman.png",
+          "name": "William Osman"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/BackyardScientist.png",
+          "name": "The Backyard Scientist"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/Farmcraft101.png",
+          "name": "FarmCraft101"
+        }
+      ],
+      "time": "03:15 PM",
+      "title": "Farmer Consulting",
+      "where": "Outdoor Stage"
+    },
+    {
+      "description": "Boats, bunkers, and beyond! Creators discuss their multi-part projects and try to convince you that they really will finish them someday. They swear.",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/William_Osman.png",
+        "name": "William Osman"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/NFTI.png",
+          "name": "Nate From the Internet"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Peter_Sripol.png",
+          "name": "Peter Sripol"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/04/ColinFurze.png",
+          "name": "Colin Furze"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Brent_Underwood.png",
+          "name": "Brent Underwood"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Quiet_Nerd.png",
+          "name": "Quiet Nerd"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Andy_George.png",
+          "name": "How To Make Everything"
+        }
+      ],
+      "time": "03:15 PM",
+      "title": "Long Term Projects",
+      "where": "Main Stage"
+    },
+    {
+      "description": "These creators never learned the “fi” part of “sci-fi”. Join for a discussion of making the unreal, real and the metaphysical, physical.",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/Emily_The_Engineer.png",
+        "name": "Emily The Engineer"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/StellaChuu.png",
+          "name": "Stella Chuu"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Crescent_Shay.png",
+          "name": "Crescent Shay"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/LittleJem.png",
+          "name": "LittleJem"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Sam_Meeps.png",
+          "name": "Sam Meeps"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Kiaras_Workshop.png",
+          "name": "Kiara’s Workshop"
+        }
+      ],
+      "time": "03:15 PM",
+      "title": "Cosplay: Making From Pop Culture",
+      "where": "Second Stage"
+    },
+    {
+      "description": null,
+      "length": "60",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": null,
+          "name": "Offbrand Games"
+        },
+        {
+          "media": null,
+          "name": "Akupara"
+        }
+      ],
+      "time": "03:45 PM",
+      "title": "Pitching Your Game to Publishers",
+      "where": "Outdoor Stage"
+    },
+    {
+      "description": "Look up, and keep going for 60 something miles (100km).",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/Everyday_Astronaut.png",
+        "name": "Everyday Astronaut"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/AstroKobi.png",
+          "name": "AstroKobi"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/ASTRO_ALEXANDRA.png",
+          "name": "Astro Alexandra"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Scott_Manley.png",
+          "name": "Scott Manley"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Real_Engineering.png",
+          "name": "Brian McManus"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/MatthewDominick.png",
+          "name": "Matthew Dominick"
+        }
+      ],
+      "time": "03:45 PM",
+      "title": "Space (intentionally left blank)",
+      "where": "Main Stage"
+    },
+    {
+      "description": "Anyone who has built something and thought about making a YouTube video about it knows that building is only half the challenge. Telling a story around it is the other. Learn how they document the process, shape compelling stories, and turn complex projects into videos people want to watch.",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/Louis_Weisz.png",
+        "name": "Louis Weisz"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Sean_Hodgins.png",
+          "name": "Sean Hodgins"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Jake_Laser.png",
+          "name": "Jake Laser"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Allen_Pan.png",
+          "name": "Allen Pan"
+        }
+      ],
+      "time": "04:00 PM",
+      "title": "Narrative-first YouTube Channel",
+      "where": "Second Stage"
+    },
+    {
+      "description": "Sometimes you just can’t fit everything into a TikTok. Long-form content gives creators space to explore complex topics and tell richer stories. This panel explores the craft of going deep: from research and storytelling, to keeping viewers engaged for the long haul.",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/Joe_Barnard.png",
+        "name": "BPS.space"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Technology_Connections.png",
+          "name": "Technology Connections"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Tibees.png",
+          "name": "Tibees"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/AlphaPhoenix.png",
+          "name": "Alpha Phoenix"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/Hbomberguy.png",
+          "name": "Hbomberguy"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/03/TedNivison.png",
+          "name": "Ted Nivison"
+        }
+      ],
+      "time": "04:15 PM",
+      "title": "Deep Dives: The Art of Saying More",
+      "where": "Main Stage"
+    },
+    {
+      "description": null,
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/PolyMars.png",
+          "name": "PolyMars"
+        }
+      ],
+      "time": "04:30 PM",
+      "title": "You Don't Need to Crunch",
+      "where": "Second Stage"
+    },
+    {
+      "description": "Taking a chip off the old block, literally. These creators harness giant metal machines to make (and break) precision parts. Stick around for thoughts on CNC-ing and machining with plenty of jargon along the way.",
+      "length": "30",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/Breaking_Taps.png",
+        "name": "Breaking Taps"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Jeremy_Fielding.png",
+          "name": "Jeremy Fielding"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Inheritance_Machining.png",
+          "name": "Inheritance Machining"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Marius_Hornberger.png",
+          "name": "Marius Hornberger"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Tom_Stanton.png",
+          "name": "Tom Stanton"
+        }
+      ],
+      "time": "04:45 PM",
+      "title": "Man vs. Machining",
+      "where": "Outdoor Stage"
+    },
+    {
+      "description": null,
+      "length": "45",
+      "moderator": null,
+      "speakers": [],
+      "time": "05:00 PM",
+      "title": "Voyagers of Nera Developers",
+      "where": "Second Stage"
+    },
+    {
+      "description": "Join the cast and creators of Scare the Coyote for an exclusive live conversation and the inaugural live Golden Coyote Ceremony.",
+      "length": "45",
+      "moderator": {
+        "media": "https://opensauce.com/wp-content/uploads/2025/02/William_Osman.png",
+        "name": "William Osman"
+      },
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Alex_Ernst.png",
+          "name": "Alex Ernst"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/Jabrils.png",
+          "name": "Jabrils"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Drake_Anthony.png",
+          "name": "Styropyro"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/MichaelReeves.png",
+          "name": "Michael Reeves"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/NileRed.png",
+          "name": "NileRed"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/BackyardScientist.png",
+          "name": "The Backyard Scientist"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Emily_The_Engineer.png",
+          "name": "Emily The Engineer"
+        }
+      ],
+      "time": "05:15 PM",
+      "title": "Scare The Coyote: LIVE!",
+      "where": "Main Stage"
+    }
+  ]
+}
