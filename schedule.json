@@ -1,4 +1,419 @@
 {
+  "friday": [
+    {
+      "description": "Join the official kickoff of Open Sauce Year 3 with inventor and creator William Osman. This session will offer a quick look at the creator culture that drives innovation, audience connection, and creative business growth.",
+      "length": "10",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/04/JimLouderback.png",
+          "name": "Jim Louderback"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/William_Osman.png",
+          "name": "William Osman"
+        }
+      ],
+      "time": "09:30 AM",
+      "title": "Welcome to Open Sauce with William Osman",
+      "where": "Industry Stage"
+    },
+    {
+      "description": "As platforms grow globally, smart creators are discovering opportunity to distribute everywhere. This session lays out the advantages for global content expansion: greater ad revenue, new sponsorship options, and increased audience growth. Learn which tools, partners, and platforms are helping creators scale internationally - without scaling production.",
+      "length": "25",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/DustinHarris.png",
+          "name": "Dustin Harris"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/06/JonnySteel.png",
+          "name": "Jonny Steel"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/06/CoreyBraun.png",
+          "name": "Corey Braun"
+        }
+      ],
+      "time": "09:40 AM",
+      "title": "Scaling Content Across Borders",
+      "where": "Industry Stage"
+    },
+    {
+      "description": "You don’t own your followers. And if the algorithm turns on you—or your platform disappears—what happens next? This session explores how creators are future-proofing their business by owning their audiences and monetizing beyond the core social platforms. Learn how to take control of your community, revenue, and future - and stop relying on rented land.",
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/KevinDaigle.png",
+          "name": "Kevin Daigle"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/LuriaPetrucci.png",
+          "name": "Luria Petrucci"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Real_Engineering.png",
+          "name": "Brian McManus"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/Luke_Lafreniere.png",
+          "name": "Luke Lafreniere"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/04/ChristianEveleigh.png",
+          "name": "Christian Eveleigh"
+        }
+      ],
+      "time": "10:05 AM",
+      "title": "If YouTube Died Tomorrow, Would Your Business?",
+      "where": "Industry Stage"
+    },
+    {
+      "description": "Commerce has entered a bold new era. As the original disruptor in retail innovation, QVC Group is building the future of live, social, and immersive shopping. In this fireside chat, Alex Wellen, President and Chief Growth Officer of QVC Group, joins Jim Louderback to explore how the company is redefining the commerce experience—scaling authentic storytelling, reaching new consumers, empowering fresh voices, and setting the standard for the future of shoppable media across all types of products – including those from makers, builders, scientists and geeks.",
+      "length": "25",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/04/JimLouderback.png",
+          "name": "Jim Louderback"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/06/AlexWellen.png",
+          "name": "Alex Wellen"
+        }
+      ],
+      "time": "10:35 AM",
+      "title": "Fireside Chat with Alex Wellen, President QVC",
+      "where": "Industry Stage"
+    },
+    {
+      "description": "Kevin Kelly helped define digital optimism and shaped how we think about technology, communities, and creativity. In this live podcast recording and fireside chat with maker-creator William Osman, the Wired founding executive editor explore the real meaning behind 1,000 True Fans, the power of an “audience of one,” and why a little optimism is a good thing. Expect stories, frameworks, and timeless advice for everyone navigating the next era of the internet and life itself.",
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/William_Osman.png",
+          "name": "William Osman"
+        }
+      ],
+      "time": "11:00 AM",
+      "title": "Fireside Chat with Kevin Kelly and William Osman",
+      "where": "Industry Stage"
+    },
+    {
+      "description": "What do an etymology expert and an engineering creator have in common? Memes. In this surprising and fun session, Etymology Nerd Adam Aleksic and Patrick Lacey from Tier Zoo explore how meme culture powers both virality and connection. From shifting language to unexpected content formats, they’ll explore what it really takes to stay relevant—and respected—online. You’ll learn how to spot high-potential trends early, apply meme logic to serious content, and use humor to build lasting audience engagement.",
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/04/AdamAleksic.png",
+          "name": "Adam Aleksic"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/06/TierZoo.png",
+          "name": "Patrick Lacey"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/MorganSung.png",
+          "name": "Morgan Sung"
+        }
+      ],
+      "time": "11:30 AM",
+      "title": "The Science of Memes and the Art of Relevance",
+      "where": "Industry Stage"
+    },
+    {
+      "description": null,
+      "length": "60",
+      "moderator": null,
+      "speakers": [],
+      "time": "12:00 PM",
+      "title": "LUNCH",
+      "where": "Industry Stage"
+    },
+    {
+      "description": "Got a legal question? Wondering abou the law and creators? Bring your questions, thoughs and ideas to this round-table discussion with creator, lawyer, manager and creator advocate Tyler Chou.",
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/06/TylerChou.png",
+          "name": "Tyler Chou"
+        }
+      ],
+      "time": "12:20 PM",
+      "title": "Roundtable with Tyler Chou",
+      "where": "Breakout 3"
+    },
+    {
+      "description": "Straight from NASA to our stage, Matthew Dominick answers your boldest, weirdest, and most ambitious space questions - along with talking about what it's like to be a creator in space.",
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/MatthewDominick.png",
+          "name": "Matthew Dominick"
+        }
+      ],
+      "time": "12:20 PM",
+      "title": "AMA With NASA Astronaut Matthew Dominick",
+      "where": "Breakout 1"
+    },
+    {
+      "description": "Go behind the scenes with Mark Rober’s creative team as they share insights into their workflow, problem-solving techniques, and the magic behind their viral projects. Bring your questions and ideas to this interactive AMA session and explore wild ideas, innovative production processes and more!",
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/Pojo_Riegert.png",
+          "name": "Pojo Riegert"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/JonMarcu.png",
+          "name": "Jon Marcu"
+        }
+      ],
+      "time": "12:20 PM",
+      "title": "A Day in the life of Mark Rober's Creative Team",
+      "where": "Breakout 2"
+    },
+    {
+      "description": "YouTube's creator liaison and editor Rene Ritchie and YouTube product manager Todd Beaupre know more about building success on YouTube than just about anyone else. In this session they'll share the deep secrets of success for July 2025, including why the algorithm doesn't hate you, how AI is changing discovery and recommendations, the key numbers and KPIs to REALLY focus on, the unique characteristics of Shorts, YouTube on the big screen and much more! Get ready to really understand how the YouTube algorithm works from the inside experts at YouTube!",
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/06/ToddBeaupre.png",
+          "name": "Todd Beaupré"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/ReneRitchie.png",
+          "name": "Rene Ritchie"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/GwenMiller.png",
+          "name": "Gwen Miller"
+        }
+      ],
+      "time": "01:00 PM",
+      "title": "YouTube Algorithm Secrets - 2025",
+      "where": "Industry Stage"
+    },
+    {
+      "description": "For GM, the road to the future isn’t just about EVs and autonomous driving – it’s about transforming how they engage with creators and redefine their brand for a digital-first world. Jessica Wang, Executive Director of Content Strategy at GM and former YouTube executive, shares how the legacy automaker is moving beyond traditional influencer campaigns to deeper, more authentic partnerships that treat creators like true creative collaborators. Learn why GM is betting on creators as strategic storytellers, how they’re building relationships beyond the automotive world, and what this approach means for brands looking to connect with diverse, engaged audiences.",
+      "length": "25",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/06/JessicaWang.png",
+          "name": "Jessica Wang"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/NeilWaller.png",
+          "name": "Neil Waller"
+        }
+      ],
+      "time": "01:30 PM",
+      "title": "GM's Creator Playbook",
+      "where": "Industry Stage"
+    },
+    {
+      "description": "Brands love working with creators—until they don’t. Misaligned expectations, bad briefs, and clunky approval processes can turn a dream deal into a disaster. In this session, top creators pull back the curtain on what brands get wrong (and right) when collaborating with influencers. From creative freedom to fair pay to authentic storytelling, hear firsthand what creators need from brands to deliver their best work—and why some partnerships fail before they even begin. If you’re a brand looking to build better, more effective creator relationships, this is the conversation you can’t afford to miss.",
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/CassandraBankson.png",
+          "name": "Cassandra Bankson"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/MonicaKhan.png",
+          "name": "Monica Khan"
+        }
+      ],
+      "time": "01:55 PM",
+      "title": "What Creators Wish Brands Knew",
+      "where": "Industry Stage"
+    },
+    {
+      "description": "What makes a creator stand out—or get cut? Kamal Bhandal, SVP of Global Invisalign Brand at Align Technology, shares what brands really look for, what kills a deal, and how creators can position themselves for long-term partnerships. Walk away with clear, insider tips to land brand deals and avoid common missteps.",
+      "length": "25",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/KamalBhandal.png",
+          "name": "Kamal Bhandal"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/04/EricWei.png",
+          "name": "Eric Wei"
+        }
+      ],
+      "time": "02:25 PM",
+      "title": "What Brands Wish Creators Knew - Kamal Bhandal",
+      "where": "Industry Stage"
+    },
+    {
+      "description": "These creators aren’t scared of AI, they're adapting and thriving. 3 top creators share how they are integrating AI into their workflows today, and how they plan to differentiate their content from AI-generated slop tomorrow. From content production to audience growth, new formats and digital twins, they’ll share what tools are working, what’s still broken, and how they'll collaborate and compete with AI in the future.",
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/YCSun.png",
+          "name": "YC Sun"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/DeliaLazarescu.png",
+          "name": "Delia Lazarescu"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/RoxCodes.png",
+          "name": "Rox Codes"
+        }
+      ],
+      "time": "02:50 PM",
+      "title": "Thriving as a Creator in the Age of AI",
+      "where": "Industry Stage"
+    },
+    {
+      "description": null,
+      "length": "40",
+      "moderator": null,
+      "speakers": [],
+      "time": "03:30 PM",
+      "title": "AFTERNOON BREAK",
+      "where": "Industry Stage"
+    },
+    {
+      "description": "Join this round table / AMA with Rene Ritchie to talk YouTube algorithms, creating content and really anything on your mind!",
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/06/ToddBeaupre.png",
+          "name": "Todd Beaupré"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/ReneRitchie.png",
+          "name": "Rene Ritchie"
+        }
+      ],
+      "time": "03:35 PM",
+      "title": "Round Table With Rene Ritchie",
+      "where": "Breakout 1"
+    },
+    {
+      "description": "This facilitated discussion brings creators together to unpack the full brand partnerships journey. Whether you're represented or independent, you'll walk through the entire cycle—from strategy to pitch to execution and renewal. Guided by Ben Smith from Smooth Media, you’ll learn how to better define your audience, build effective media kits, and sustain long-term relationships. Share your experience, ask questions, and leave with tactical insights to help you start working with your dream brands.",
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/BenSmith.png",
+          "name": "Ben Smith"
+        }
+      ],
+      "time": "03:35 PM",
+      "title": "Round Table Q&A: Setting Yourself Up for Brand Partnerships Success",
+      "where": "Breakout 3"
+    },
+    {
+      "description": "AI is reshaping the creative process. This roundtable, led by YC Sun and Dan Perkel of IDEO, offers an interactive forum for creators, marketers and experts to discuss the practical, personal, and ethical questions raised in “Thriving as a Creator in the Age of AI.” Bring your ideas, frustrations, questions and code. You'll leave with new strategies, peer insights, and possible collaborations.",
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/YCSun.png",
+          "name": "YC Sun"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/DanPerkel.png",
+          "name": "Dan Perkel"
+        }
+      ],
+      "time": "03:35 PM",
+      "title": "Roundtable Conversation: What is a Creator in the Age of AI",
+      "where": "Breakout 2"
+    },
+    {
+      "description": "From backyard explosions to big-bang theories, science hits different when it’s told by creators who love to tinker, test, and ask “what if?” This session dives into how hands-on creators and lifelong explainers are turning curiosity into content that sticks—and why making people feel science might matter more than making them memorize it. Get practical strategies to create, build, fund, and scale science communication in a platform-first world.",
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/07/MatthewDominick.png",
+          "name": "Matthew Dominick"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/IanCharnas.png",
+          "name": "Ian Charnas"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/TraceDominguez.png",
+          "name": "Trace Dominguez"
+        }
+      ],
+      "time": "04:10 PM",
+      "title": "Explaining the Universe One Click at a Time",
+      "where": "Industry Stage"
+    },
+    {
+      "description": "Dan Ackerman spent years running major tech sites, including Gizmodo and CNET. Now he’s internal editor-in-chief at MicroCenter. What’s it like to go from covering the industry to working inside it? Joined by creator and MicroCenter SuperFan Michael Reeves, this session explores the evolving role of media, the rise of internal creators, and what the future looks like for building PCs and telling tech stories.",
+      "length": "25",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/06/DanAckerman.png",
+          "name": "Dan Ackerman"
+        },
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/MichaelReeves.png",
+          "name": "Michael Reeves"
+        }
+      ],
+      "time": "04:40 PM",
+      "title": "From Tech Journalist to Brand Insider",
+      "where": "Industry Stage"
+    },
+    {
+      "description": "This fireside chat with Patreon COO Paige Fitzgerald explores how creators are moving beyond ad models and algorithm churn to build real, recurring revenue. Drawing on insights from Patreon’s latest State of the Creator report and real world examples, the session will explore what sustainable success looks like today. Whether you're a creator, a platform builder, or a brand investing in talent, this conversation offers a clear look at what it takes to build a lasting creative business.",
+      "length": "25",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/05/PaigeFitzgerald.png",
+          "name": "Paige Fitzgerald"
+        }
+      ],
+      "time": "05:05 PM",
+      "title": "Likes Don’t Pay Rent - Fireside Chat with Patreon COO Paige Fitzgerald",
+      "where": "Industry Stage"
+    },
+    {
+      "description": "We’re closing out industry day with a conversation with top creators who are pushing the boundaries of internet innovation through hands-on engineering and practical product development. From prototyping physical products to launching new tools with AI, this session dives into the serious side of making on the internet. You'll leave with insight into how creators are evolving beyond content into real-world problem-solving and what’s inspiring them to keep building.",
+      "length": "30",
+      "moderator": null,
+      "speakers": [
+        {
+          "media": "https://opensauce.com/wp-content/uploads/2025/02/William_Osman.png",
+          "name": "William Osman"
+        }
+      ],
+      "time": "05:30 PM",
+      "title": "From YouTube Clickbait to Real Engineering",
+      "where": "Industry Stage"
+    },
+    {
+      "description": null,
+      "length": "120",
+      "moderator": null,
+      "speakers": [],
+      "time": "06:30 PM",
+      "title": "Industry Reception",
+      "where": "Off-Site"
+    }
+  ],
   "saturday": [
     {
       "description": "Safety Third but it's LIVE! The hosts (and some guests) share stories and rant while pretending to talk about science.",
